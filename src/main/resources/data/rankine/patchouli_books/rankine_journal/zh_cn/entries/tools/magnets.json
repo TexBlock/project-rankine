@@ -1,0 +1,35 @@
+{
+  "name": "磁铁",
+  "icon": "rankine:alnico_magnet",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "单击时，磁铁能够拉动物品和方块。 磁铁范围和允许的材料存在一些配置选项。 稀土磁铁的范围 (10) 比铝镍钴 (5) 长。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:lodestone",
+      "text": "一种弱动力的天然磁铁。 通过粉碎$(l:world/ores#magnetite_ore)磁铁矿$()获得。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:alnico_magnet"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:samarium_magnet",
+      "recipe2": "rankine:neodymium_magnet"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:alnico_electromagnet",
+      "text": "提供红石信号以将最近的方块吸引到磁铁表面。 范围等于项目版本的范围。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:samarium_electromagnet",
+      "recipe2": "rankine:neodymium_electromagnet"
+    }
+  ]
+}

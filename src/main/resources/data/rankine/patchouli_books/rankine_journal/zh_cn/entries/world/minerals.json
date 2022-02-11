@@ -1,0 +1,541 @@
+{
+  "name": "矿物和宝石",
+  "icon": "rankine:azurite",
+  "category": "world",
+  "pages": [
+    {
+      "type": "text",
+      "text": ""
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:feldspar",
+      "anchor": "feldspar",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过破碎从各种石头和矿石中获得。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:plagioclase_feldspar",
+      "anchor": "plagioclase_feldspar",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过破碎从各种石头和矿石中获得。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:mica",
+      "anchor": "mica",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过破碎从各种石头和矿石中获得。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:amphibole",
+      "anchor": "amphibole",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过破碎从各种石头和矿石中获得。"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:quartz",
+      "anchor": "quartz",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过破碎从各种石头和矿石中以及从石英矿石中获得。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:calcite",
+      "anchor": "calcite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过破碎从各种石头和矿石中获得。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:dolomite",
+      "anchor": "dolomite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过破碎从各种石头和矿石中获得。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:olivine",
+      "anchor": "olivine",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过破碎从各种石头和矿石中获得。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:pyroxene",
+      "anchor": "pyroxene",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过破碎从各种石头和矿石中获得。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:perlite",
+      "anchor": "perlite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从黑曜石中获得。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:pozzolan",
+      "anchor": "pozzolan",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过破碎从各种石头和矿石中获得。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:calcium_silicate",
+      "anchor": "calcium_silicate",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过破碎从各种石头和矿石中获得。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:zircon",
+      "anchor": "zircon",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过破碎从各种石头中获得。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:saltpeter",
+      "anchor": "saltpeter",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过破碎从各种石头中获得。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:borax",
+      "anchor": "borax",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过破碎从各种石头中获得。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:trona",
+      "anchor": "trona",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过破碎从各种石头中获得。"
+    },
+
+
+    {
+      "type": "spotlight",
+      "item": "rankine:malachite",
+      "anchor": "malachite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#malachite_ore)孔雀石矿石$()中获得。 $(br2)$(l)用途：$() 在高炉中冶炼以生产铜锭。 可以制作装饰块和绿色染料。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:azurite",
+      "anchor": "azurite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#malachite_ore)孔雀石矿石$()中获得。 $(br2)$(l)用途：$() 在高炉中冶炼以生产铜锭。 可以制作装饰块和浅蓝色染料。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:cassiterite",
+      "anchor": "cassiterite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 从$(l:world/ores#cassiterite_ore)锡石矿石$()通过破碎获得。 $(br2)$(l)用途：$() 在高炉中冶炼以生产锡锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:chalcopyrite",
+      "anchor": "chalcopyrite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#interspinifex_ore)棘间矿$()获得。 $(br2)$(l)用途：$() 粉碎产生铜块和铁块。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:alumina",
+      "anchor": "alumina",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#bauxite_ore)铝土矿$()中获得。 $(br2)$(l)用途：$() 在高炉中冶炼以生产铝锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:sphalerite",
+      "anchor": "sphalerite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 由$(l:world/ores#sphalerite_ore)闪锌矿矿石$()通过破碎获得。 $(br2)$(l)用途：$() 在高炉中冶炼以生产锌锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:stibnite",
+      "anchor": "stibnite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过破碎从$(l:world/ores#stibnite_ore)辉锑矿$()获得。 $(br2)$(l)用途：$() 在熔炉中冶炼以生产锑锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:galena",
+      "anchor": "galena",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#galena_ore)方铅矿$()获得。 $(br2)$(l)用途：$() 在高炉中冶炼以生产铅锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:acanthite",
+      "anchor": "acanthite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#acanthite_ore)尖晶石矿石$()获得。 $(br2)$(l)用途：$() 在高炉中冶炼以生产银锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:vanadinite",
+      "anchor": "vanadinite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#vanadinite_ore)钒铅矿$()通过破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产钒锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:bismuthinite",
+      "anchor": "bismuthinite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#bismuthinite_ore)铋矿$()通过破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产铋锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:magnetite",
+      "anchor": "magnetite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#magnetite_ore)磁铁矿$()通过破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产铁锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:magnesite",
+      "anchor": "magnesite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#magnesite_ore)菱镁矿$()通过破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产镁锭。 可以在 $(l:machines/beehive_oven)蜂窝炉$() 上制作一块可以转化为氧化镁的菱镁矿。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:pentlandite",
+      "anchor": "pentlandite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#pentlandite_ore)Pentlandite Ore$() 通过破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产镍锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:pyrolusite",
+      "anchor": "pyrolusite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#pyrolusite_ore)软锰矿$()经破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产锰锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:chromite",
+      "anchor": "chromite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#chromite_ore)铬铁矿$()通过破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产铬锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:ilmenite",
+      "anchor": "ilmenite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#ilmenite_ore)钛铁矿$()通过破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产钛锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:wolframite",
+      "anchor": "wolframite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#wolframite_ore)黑钨矿$()通过破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产钨锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:cobaltite",
+      "anchor": "cobaltite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#cobaltite_ore)钴矿石$() 通过破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产钴锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:columbite",
+      "anchor": "columbite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#columbite_ore)Columbite Ore$() 通过破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产铌锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:tantalite",
+      "anchor": "tantalite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#tantalite_ore)钽铁矿$()通过破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产钽锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:petalite",
+      "anchor": "petalite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#petalite_ore)花瓣岩矿石$() 通过破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产锂锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:platinum_arsenide",
+      "anchor": "platinum_arsenide",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#sperrylite_ore)镁铝矿$() 通过破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产铂锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:barite",
+      "anchor": "barite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎各种石头和矿石。 $(br2)$(l)用途：$() 在高炉中冶炼以生产钡锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:celestine",
+      "anchor": "celestine",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#celestine_ore)天青石矿石$() 通过破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产锶锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:molybdenite",
+      "anchor": "molybdenite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#molybdenite_ore)辉钼矿$()通过破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产钼锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:uraninite",
+      "anchor": "uraninite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#uraninite_ore)通过破碎的铀矿矿石$()。 $(br2)$(l)用途：$() 在高炉中冶炼以生产铀锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:thorite",
+      "anchor": "thorite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#uraninite_ore)通过破碎的铀矿矿石$()。 $(br2)$(l)用途：$() 在高炉中冶炼以生产钍锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:greenockite",
+      "anchor": "greenockite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#greenockite_ore)绿岩矿石$() 通过粉碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产镉锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:xenotime",
+      "anchor": "xenotime",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#xenotime_ore)磷钇矿矿石$() 通过破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产钇锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:cryolite",
+      "anchor": "cryolite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#cryolite_ore)冰晶石矿石$()通过破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产钠锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:cerium_monazite",
+      "anchor": "cerium_monazite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#monazite_ore)独居石矿石$() 通过破碎或来自 $(l:tools/gold_pan)冲洗$()。 $(br2)$(l)用途：$() 在高炉中冶炼以生产铈锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:lanthanum_monazite",
+      "anchor": "lanthanum_monazite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#monazite_ore)独居石矿石$() 通过破碎或来自 $(l:tools/gold_pan)冲洗$()。 $(br2)$(l)用途：$() 在高炉中冶炼以生产镧锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:neodymium_monazite",
+      "anchor": "neodymium_monazite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#monazite_ore)独居石矿石$() 通过破碎或来自 $(l:tools/gold_pan)冲洗$()。 $(br2)$(l)用途：$() 在高炉中冶炼生产钕锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:samarium_monazite",
+      "anchor": "samarium_monazite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#monazite_ore)独居石矿$() 通过压碎或从 $(l:tools/gold_pan)冲洗$(). $(br2)$(l)Uses:$() 在高炉中冶炼以生产钐锭。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:lepidolite",
+      "anchor": "lepidolite",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/stones#pegmatite)伟晶岩$() 通过破碎。 $(br2)$(l)用途：$() 粉碎产生各种元素块."
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:cinnabar",
+      "anchor": "cinnabar",
+      "link_recipe": true,
+      "text": "$(l)来源:$() 通过粉碎从$(l:world/ores#cinnabar_ore)朱砂矿石$()经破碎。 $(br2)$(l)用途：$() 在高炉中冶炼以生产汞锭。"
+    },
+
+
+
+    {
+      "type": "spotlight",
+      "item": "rankine:graphite",
+      "anchor": "graphite",
+      "link_recipe": true,
+      "text": "Found in $(l:world/ores#plumbago_ore)石墨矿$() 遍布整个世界。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:silicon_carbide",
+      "anchor": "silicon_carbide",
+      "link_recipe": true,
+      "text": "Found in $(l:world/ores#moissanite_ore)莫桑石矿石$() 遍布下界。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:salt",
+      "anchor": "salt",
+      "link_recipe": true,
+      "text": "Found in $(l:world/ores#halite_ore)岩盐矿石$() 遍布整个世界。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:pink_salt",
+      "anchor": "pink_salt",
+      "link_recipe": true,
+      "text": "Found in $(l:world/ores#pink_halite_ore)粉红石盐矿石$() 遍布整个世界."
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:diamond",
+      "anchor": "diamond",
+      "link_recipe": true,
+      "text": "发现于金伯利岩侵入体和冲积层/黑砂沉积物中。"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:emerald",
+      "anchor": "emerald",
+      "link_recipe": true,
+      "text": "遍布整个世界."
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:lapis_lazuli",
+      "anchor": "lapis",
+      "link_recipe": true,
+      "text": "遍布整个世界."
+    },
+    {
+      "type": "spotlight",
+	  "item": "rankine:peridot",
+      "anchor": "peridot",
+      "link_recipe": true,
+      "text": "见于冲积层/黑砂矿床。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:topaz",
+      "anchor": "topaz",
+      "link_recipe": true,
+      "text": "见于冲积层/黑砂矿床。"
+    },
+	{
+      "type": "spotlight",
+	  "item": "rankine:opal",
+      "anchor": "opal",
+      "link_recipe": true,
+      "text": "在铁矿石中发现."
+    },
+	{
+      "type": "spotlight",
+	  "item": "rankine:garnet",
+      "anchor": "garnet",
+      "link_recipe": true,
+      "text": "存在于多数矿石中遍布整个世界."
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:ruby",
+      "anchor": "ruby",
+      "link_recipe": true,
+      "text": "见于冲积层/黑砂矿床。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:sapphire",
+      "anchor": "sapphire",
+      "link_recipe": true,
+      "text": "见于冲积层/黑砂矿床。"
+    },
+	{
+      "type": "spotlight",
+	  "item": "rankine:aquamarine",
+      "anchor": "aquamarine",
+      "link_recipe": true,
+      "text": "遍布整个世界."
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:fluorite",
+      "anchor": "fluorite",
+      "link_recipe": true,
+      "text": "在末路之地作为矿石被发现。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:tourmaline",
+      "anchor": "tourmaline",
+      "link_recipe": true,
+      "text": "被发现是花瓣岩的破碎成分。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:tiger_iron",
+      "anchor": "tiger_iron",
+      "link_recipe": true,
+      "text": "作为铁矿石的破碎成分被发现。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:labradorite",
+      "anchor": "labradorite",
+      "link_recipe": true,
+      "text": "发现作为各种石头和矿石的破碎成分。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:chrome_enstatite",
+      "anchor": "chrome_enstatite",
+      "link_recipe": true,
+      "text": "作为 $(world/meteorites)顽火辉石$() 的破碎成分被发现。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:rhodonite",
+      "anchor": "rhodonite",
+      "link_recipe": true,
+      "text": "作为闪锌矿的破碎成分被发现。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:rhodochrosite",
+      "anchor": "rhodochrosite",
+      "link_recipe": true,
+      "text": "作为软锰矿的破碎成分被发现。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:lonsdaleite_diamond",
+      "anchor": "lonsdaleite_diamond",
+      "link_recipe": true,
+      "text": "在末路之地作为矿石被发现。"
+    }
+  ]
+}

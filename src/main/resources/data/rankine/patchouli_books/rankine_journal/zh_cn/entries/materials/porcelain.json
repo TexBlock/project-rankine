@@ -1,0 +1,26 @@
+{
+  "name": "瓷器",
+  "icon": "rankine:kaolinite_ball",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:kaolinite_raw",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:kaolinite_block",
+      "text": ""
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:porcelain_block",
+      "text": "通过在蜂窝炉加工高岭石块制成."
+    }
+  ]
+}

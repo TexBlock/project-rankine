@@ -1,0 +1,22 @@
+{
+  "name": "绳索",
+  "icon": "rankine:rope",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "anchor": "rope",
+      "text": "一种坚固、灵活的材料，能够绑定工具组件 $(br2)也可以像脚手架一样攀爬，但仅当连接到顶部的砌块时。通过右键单击更多绳索，可以将绳索延伸至地面。当绳子断开时，它会把上面所有的绳子都掉下来。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:rope",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:plant_fiber_grass",
+      "text": "获得植物纤维的最简单和最早的方法。草可以用$(l:tools/knives)刀$(). 植物纤维的其他配方包括葡萄藤、蕨类植物和黄麻。"
+    }
+  ]
+}

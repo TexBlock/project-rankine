@@ -1,0 +1,16 @@
+{
+  "name": "防毒面具",
+  "icon": "rankine:gas_mask",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "由于窒息的风险和潜在的负面影响，气体块可能很危险。 防毒面具可阻止有害影响和窒息，同时保留气体的积极影响。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:gas_mask",
+      "text": "防毒面具可以作为头盔装备，也可以在铁砧处与头盔结合使用。 这将应用 $(l:mechanics/enchantments#gas_protection)气体保护$() 附魔。"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "name": "植物群",
+  "icon": "rankine:cedar_sapling",
+  "category": "world",
+  "pages": [
+    {
+      "type": "text",
+      "text": "添加各种树木和灌木丛以使世界活跃起来。 所有树木都会掉落各自的树苗，并拥有整套木材变体。 灌木丛为您的冒险添加了早期的游戏食物。"
+    },
+    {
+      "type": "spotlight",
+	  "item": "rankine:cedar_sapling",
+      "link_recipe": true,
+      "text": "在针叶林生物群系中发现。"
+    },
+	{
+      "type": "spotlight",
+	  "item": "rankine:pinyon_pine_sapling",
+      "link_recipe": true,
+      "text": "在稀树草原生物群系中发现。"
+    },
+	{
+      "type": "spotlight",
+	  "item": "rankine:juniper_sapling",
+      "link_recipe": true,
+      "text": "在稀树草原生物群系中发现。"
+    },
+	{
+      "type": "spotlight",
+	  "item": "rankine:coconut_palm_sapling",
+      "link_recipe": true,
+      "text": "在海滩生物群系中发现。"
+    },
+	{
+      "type": "spotlight",
+	  "item": "rankine:balsam_fir_sapling",
+      "link_recipe": true,
+      "text": "在沼泽生物群系中发现。"
+    },
+	{
+      "type": "spotlight",
+	  "item": "rankine:magnolia_sapling",
+      "link_recipe": true,
+      "text": "沿着河流生物群系发现。"
+    },
+	{
+      "type": "spotlight",
+	  "item": "rankine:eastern_hemlock_sapling",
+      "link_recipe": true,
+      "text": "在针叶林生物群系中发现。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:yellow_birch_sapling",
+      "link_recipe": true,
+      "text": "在森林生物群系中发现."
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:black_birch_sapling",
+      "link_recipe": true,
+      "text": "在森林生物群系中发现。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:maple_sapling",
+      "link_recipe": true,
+      "text": "发现于平原生物群系。 $(br2)长出慢慢改变颜色的雄伟叶子。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:black_walnut_sapling",
+      "link_recipe": true,
+      "text": "发现于河流生物群系。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:sharinga_sapling",
+      "link_recipe": true,
+      "text": "在丛林生物群系中发现。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:cork_oak_sapling",
+      "link_recipe": true,
+      "text": "在蘑菇生物群系中发现."
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:elderberries",
+      "link_recipe": true,
+      "text": "发现于森林和平原生物群系。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:snowberries",
+      "link_recipe": true,
+      "text": "发现于山区和白雪皑皑的生物群系。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:cranberries",
+      "link_recipe": true,
+      "text": "在沼泽生物群系中发现。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:blueberries",
+      "link_recipe": true,
+      "text": "发现于河流和平原生物群系。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:raspberries",
+      "link_recipe": true,
+      "text": "在森林生物群系中发现。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:blackberries",
+      "link_recipe": true,
+      "text": "在森林生物群系中发现。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:strawberries",
+      "link_recipe": true,
+      "text": "发现于平原生物群系。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:pineapple",
+      "link_recipe": true,
+      "text": "在丛林生物群系中发现。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:banana_yucca",
+      "link_recipe": true,
+      "text": "在沙漠、台地和稀树草原生物群系中发现。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:coconut",
+      "link_recipe": true,
+      "text": "来自椰子叶。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:juniper_berries",
+      "link_recipe": true,
+      "text": "从杜松叶。 有轻微毒性。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:black_walnut",
+      "link_recipe": true,
+      "text": "来自黑胡桃树叶。 有轻微毒性。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:aloe",
+      "link_recipe": true,
+      "text": "在沙漠、台地和稀树草原生物群系中发现。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:camphor_basil_leaf",
+      "link_recipe": true,
+      "text": "在丛林和河流生物群系中发现。 $(br2)这种植物有种子。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:rice",
+      "link_recipe": true,
+      "text": "用于米粉。 $(br2)种子可以通过觅食找到。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:corn_ear",
+      "link_recipe": true,
+      "text": "用于玉米粉。 $(br2)种子可以通过觅食找到。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:jute",
+      "link_recipe": true,
+      "text": "用于植物纤维。 $(br2)种子可以通过觅食找到。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:cotton",
+      "link_recipe": true,
+      "text": "用于制作。 $(br2)种子可以通过觅食找到。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:asparagus",
+      "link_recipe": true,
+      "text": "用于食物。 只能在生长中期采收作为食物。 $(br2)种子可以通过觅食找到。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:asparagus_root",
+      "text": "自动种植芦笋。 终将死去。"
+    }
+  ]
+}

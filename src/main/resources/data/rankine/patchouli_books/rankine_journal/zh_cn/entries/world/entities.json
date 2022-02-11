@@ -1,0 +1,11 @@
+{
+  "name": "实体",
+  "icon": "rankine:mantle_golem_egg",
+  "category": "world",
+  "pages": [
+    {
+      "type": "text",
+      "text": "尽管这些生物存在，但它们尚未在任何已知维度中出现。"
+    }
+  ]
+}

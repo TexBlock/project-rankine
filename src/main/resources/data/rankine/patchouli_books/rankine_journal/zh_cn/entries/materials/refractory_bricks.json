@@ -1,0 +1,55 @@
+{
+  "name": "耐火砖",
+  "icon": "rankine:refractory_bricks",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "anchor": "refractory_bricks",
+      "text": "耐火砖是机器的结构部件。 它们也可以用作带有板、楼梯和垂直板变体的装饰块。 他们应用类似于砖块的 $(l:mechanics/movement)移动速度$() 修改器。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:fire_clay_ball",
+      "text": "在世界上的草皮下可以找到火粘土。在资源稀缺的情况下，也可以制作火粘土球。它们将用于制作所有耐火材料层。"
+    },
+    {
+      "type": "smelting",
+      "recipe": "rankine:refractory_brick_smelting",
+      "text": "基础耐火砖。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:clay_bricks",
+      "recipe2": "rankine:refractory_bricks",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "title": "高耐火砖",
+      "recipe": "rankine:high_refractory_brick_from_magnesia",
+      "recipe2": "rankine:high_refractory_brick_from_dolomite",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "title": "高耐火砖",
+      "recipe": "rankine:high_refractory_brick_from_chromium",
+      "recipe2": "rankine:high_refractory_bricks",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "title": "超高耐火砖",
+      "recipe": "rankine:ultra_high_refractory_brick_from_zircon",
+      "recipe2": "rankine:ultra_high_refractory_brick_from_silicon_carbide",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "title": "超高耐火砖",
+      "recipe": "rankine:ultra_high_refractory_bricks",
+      "text": ""
+    }
+  ]
+}

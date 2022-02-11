@@ -1,0 +1,26 @@
+{
+  "name": "元素转换器",
+  "icon": "rankine:element_transmuter",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": "这种源自世界上一些最奇怪的有机材料的物质似乎具有非凡的特性。 它可以从不可处理的来源中提取元素。 在开发出更好的方法之前，我想这将不得不这样做。 有关所有用途，请参见 JEI。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:nether_element_transmuter",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:ender_element_transmuter",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:ghast_element_transmuter",
+      "text": ""
+    }
+  ]
+}

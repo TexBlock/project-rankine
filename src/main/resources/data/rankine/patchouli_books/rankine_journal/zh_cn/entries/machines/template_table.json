@@ -1,0 +1,21 @@
+{
+  "name": "模板表",
+  "icon": "rankine:template_table",
+  "category": "machines",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "anchor": "template_table",
+      "text": "为了使 $(l:machines/alloy_furnace)合金炉$() 自动化，可以将合金模板放置在顶部的蓝色插槽中。 要制作合金模板，请将纸和黑色染料放在顶部插槽中。 然后，将材料放入前三个插槽，就好像它是合金炉一样。 当有可接受的配方时，模板将显示在输出槽中。"
+    },
+    {
+      "type": "text",
+      "text": "模板可以移除，只消耗纸张和染料。 $(l:machines/induction_furnace)感应炉$() 可以以类似的方式自动化。 该合金模板是使用紫色染料而不是黑色创建的，最多可以接受 5 种材料。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:template_table"
+    }
+  ]
+}

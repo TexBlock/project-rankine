@@ -1,0 +1,17 @@
+{
+  "name": "软木",
+  "icon": "rankine:cork",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": "软木是通过 $(l:mechanics/stripping)剥离$() 从沙林加 树中获得的。 它可以放置在水面上，其下方没有任何方块。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:cork",
+      "link_recipe": true,
+      "text": ""
+    }
+  ]
+}

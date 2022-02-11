@@ -1,0 +1,21 @@
+{
+  "name": "除草剂",
+  "icon": "rankine:herbicide",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": "除草剂用于杀死植物。 右键单击将在半径范围内破坏标签#rankine:herbicidal 中的所有块（默认为 7，请参见配置）。 如果 shift + 右键单击，它会将 #forge:dirt 中的任何方块转换为半径为 2 格的粗土。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:herbicide",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:herbicide_quicklime",
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "name": "镐",
+  "icon": "rankine:steel_pickaxe",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "可以制作的各种镐的列表。 $(br2)Vanilla 工具可以在配置中启用/禁用，默认情况下禁用以进行进度。"
+    },
+    {
+      "type": "text",
+      "text": "镐正常工作。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:flint_pickaxe",
+      "text": "统计：$(li)收获水平：0"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:pewter_pickaxe",
+      "text": "统计：$(li)收获水平：1"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:bronze_pickaxe",
+      "text": "统计：$(li)收获水平：1"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:invar_pickaxe",
+      "text": "统计：$(li)收获水平：2"
+    },
+    {
+      "type": "crafting",
+      "recipe": "minecraft:iron_pickaxe",
+      "text": "Stats:$(li)Harvest wLevel: 1"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:steel_pickaxe",
+      "text": "统计：$(li)收获水平：3"
+    },
+    {
+      "type": "crafting",
+      "recipe": "minecraft:diamond_pickaxe",
+      "text": "统计：$(li)收获水平：3"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:netherite_pickaxe",
+      "text": "统计：$(li)收获水平：4"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:stainless_steel_pickaxe",
+      "text": "统计：$(li)收获水平：3-4"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:nickel_superalloy_pickaxe",
+      "text": "统计：$(li)收获水平：3-4"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:cobalt_superalloy_pickaxe",
+      "text": "统计：$(li)收获水平：3-4"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:tungsten_heavy_alloy_pickaxe",
+      "text": "统计：$(li)收获水平：3-4"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:rose_gold_pickaxe",
+      "text": "统计：$(li)收获水平：0-2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:green_gold_pickaxe",
+      "text": "统计：$(li)收获水平：0-2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:blue_gold_pickaxe",
+      "text": "统计：$(li)收获水平：0-2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:purple_gold_pickaxe",
+      "text": "统计：$(li)收获水平：0-2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:white_gold_pickaxe",
+      "text": "统计：$(li)收获水平：0-2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:black_gold_pickaxe",
+      "text": "统计：$(li)收获水平：0-2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:amalgam_pickaxe",
+      "text": "统计：$(li)收获水平：???"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:alloy_pickaxe",
+      "text": "统计：$(li)收获水平：???$() $(br2)一种可以由各种合金制成的实验工具。 可以在配置中禁用。"
+    }
+  ]
+}

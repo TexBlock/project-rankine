@@ -1,0 +1,197 @@
+{
+  "name": "合金",
+  "icon": "rankine:stainless_steel_alloy",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": "合金是在 $(l:machines/alloy_furnace)合金炉$() 和 $(l:machines/induction_furnace)感应炉$() 中创建的。 有关合金配方，请参阅 JEI。 本条目中列出了每种合金的常见用途。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:pewter_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于锡器工具。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:bronze_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于青铜工具。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:brass_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于装饰。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:cast_iron_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于装饰和机械。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:rose_gold_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于玫瑰金工具。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:blue_gold_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于蓝金工具。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:purple_gold_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于紫金工具。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:green_gold_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于绿金工具。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:white_gold_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于白金工具。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:black_gold_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于黑金工具。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:solder_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于制作。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:alnico_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于制作。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:cupronickel_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于制作。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:sterling_silver_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于制作。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:nickel_silver_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于制作。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:magnesium_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于制作。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:invar_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于因瓦合金工具。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:rose_metal_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于装饰。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:duralumin_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于制作。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:osmiridium_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于制作。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:amalgam_alloy",
+      "link_recipe": true,
+      "text": "产地：AF / IF $(br2)用于汞合金工具。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:steel_alloy",
+      "link_recipe": true,
+      "text": "产地：IF $(br2)用于制作和钢制工具。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:titanium_alloy",
+      "link_recipe": true,
+      "text": "产地: IF $(br2)用于钛合金工具。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:stainless_steel_alloy",
+      "link_recipe": true,
+      "text": "产地: IF $(br2)用于不锈钢工具。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:tungsten_heavy_alloy",
+      "link_recipe": true,
+      "text": "产地: IF $(br2)用于钨合金工具。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:cobalt_superalloy",
+      "link_recipe": true,
+      "text": "产地：IF $(br2)用于钴合金工具。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:nickel_superalloy",
+      "link_recipe": true,
+      "text": "产地: IF $(br2)用于镍合金工具。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:galinstan_alloy",
+      "link_recipe": true,
+      "text": "产地: IF $(br2)用于制作。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:ferrocerium_alloy",
+      "link_recipe": true,
+      "text": "产地：IF $(br2)用于..."
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:mischmetal_alloy",
+      "link_recipe": true,
+      "text": "产地：IF $(br2)用于..."
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:nitinol_alloy",
+      "link_recipe": true,
+      "text": "产地：IF $(br2)用于..."
+    }
+  ]
+}

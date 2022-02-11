@@ -1,0 +1,17 @@
+{
+  "name": "结核",
+  "icon": "rankine:limestone_nodule",
+  "category": "world",
+  "pages": [
+    {
+      "type": "text",
+      "text": "结节是聚集在另一块石头上的不规则矿物块。 右键单击一个结节以获取资源。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:limestone_nodule",
+      "link_recipe": true,
+      "text": "石灰石结核存在于石灰石中，收获时会产生燧石。"
+    }
+  ]
+}

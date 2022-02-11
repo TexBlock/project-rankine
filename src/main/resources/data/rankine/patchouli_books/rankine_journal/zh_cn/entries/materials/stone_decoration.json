@@ -1,0 +1,32 @@
+{
+  "name": "石材装饰",
+  "icon": "rankine:checkered_marble",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": "用于装饰的各种块。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:uncolored_concrete",
+      "link_recipe": true,
+      "text": "用砂浆右键单击铸铁支架以创建无色混凝土。 可以在世界上染色以制作我的世界混凝土。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:checkered_marble",
+      "text": "提供楼板、楼梯和垂直楼板变体."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:checkered_porphyry",
+      "text": "提供楼板、楼梯和垂直楼板变体。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:checkered_dacite",
+      "text": "提供楼板、楼梯和垂直楼板变体。"
+    }
+  ]
+}

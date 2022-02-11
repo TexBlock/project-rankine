@@ -1,0 +1,11 @@
+{
+  "name": "觅食",
+  "icon": "minecraft:carrot",
+  "category": "mechanics",
+  "pages": [
+    {
+      "type": "text",
+      "text": "在挖掘泥土及其变种时，有机会找到土豆、胡萝卜和甜菜。 只有张开的手或燧石、青铜、白镴和彩金工具足够精致，才能收获此类作物。 除非应用了 $(l:mechanics/enchantments#foraging)觅食$() 附魔，否则任何更高级别的工具都不会成功觅食。可以设置在配置中找到蔬菜的机会。 设置为 0 以禁用。"
+    }
+  ]
+}

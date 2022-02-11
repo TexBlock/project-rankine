@@ -1,0 +1,16 @@
+{
+  "name": "基础",
+  "icon": "rankine:refractory_brick",
+  "category": "guide",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "为了制作更好的工具，您将需要一个 $(l:machines/alloy_furnace)合金炉$()。 主要成分是$(l:materials/refractory_bricks)耐火砖$()和$(l:materials/mortar)砂浆$()。 此外，您可以使用耐火砖制作 $(l:machines/beehive_oven)蜂窝炉$()。 它们有点慢，因此请确保尽早构建它们。"
+    },
+    {
+      "type": "text",
+      "text": "$(l:mechanics/alloying)这里$() 描述了合金化的过程，但简要总结一下，您可以将元素金属组合在一起以制造各种合金。 合金可用于制作工具，这些工具将根据所使用的金属具有不同的统计数据。 有关可用类型的更多信息，请参阅 $(l:tools/)工具$() 类别。"
+    }
+  ]
+}

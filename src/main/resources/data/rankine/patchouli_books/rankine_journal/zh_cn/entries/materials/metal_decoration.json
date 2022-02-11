@@ -1,0 +1,41 @@
+{
+  "name": "金属装饰",
+  "icon": "rankine:cast_iron_support",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": "用于装饰的各种方块。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:cast_iron_bars",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:aluminum_bars",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:magnesium_bars",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:nickel_bars",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:cast_iron_support",
+      "text": "提供楼板、楼梯和垂直楼板变体。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:cast_iron_pole",
+      "text": "装饰块。 可以连接到$(l:materials/svl)钠蒸气灯$()。 潜行+右键单击以滑下杆。 其他合金变体将在 1.3 中出现。"
+    }
+  ]
+}

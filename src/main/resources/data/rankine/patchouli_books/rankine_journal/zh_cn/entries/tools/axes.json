@@ -1,0 +1,132 @@
+{
+  "name": "斧头",
+  "icon": "rankine:steel_axe",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "可以制作的各种斧头的列表。 $(br2)Vanilla 工具可以在配置中启用/禁用，默认情况下禁用以进行进度。"
+    },
+    {
+      "type": "text",
+      "text": "斧头正常工作。 $(br2)有一个配置选项可以禁用手动打木头。 这就是燧石手斧有 2x2 配方的原因。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:flint_axe",
+      "text": "统计：$(li)收获等级：1"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:pewter_axe",
+      "link_recipe": true,
+      "text": "统计：$(li)收获等级：2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:bronze_axe",
+      "link_recipe": true,
+      "text": "统计：$(li)收获等级：2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:invar_axe",
+      "link_recipe": true,
+      "text": "统计：$(li)收获等级：3"
+    },
+    {
+      "type": "crafting",
+      "recipe": "minecraft:iron_axe",
+      "text": "统计：$(li)收获等级：3"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:steel_axe",
+      "link_recipe": true,
+      "text": "统计：$(li)收获等级：4"
+    },
+    {
+      "type": "crafting",
+      "recipe": "minecraft:diamond_axe",
+      "text": "统计：$(li)收获等级：4"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:netherite_axe",
+      "link_recipe": true,
+      "text": "统计：$(li)收获等级：5"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:stainless_steel_axe",
+      "link_recipe": true,
+      "text": "统计：$(li)收获等级：4-5"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:nickel_superalloy_axe",
+      "link_recipe": true,
+      "text": "统计：$(li)收获等级： 4-5"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:cobalt_superalloy_axe",
+      "link_recipe": true,
+      "text": "统计：$(li)收获等级：4-6"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:tungsten_heavy_alloy_axe",
+      "link_recipe": true,
+      "text": "统计：$(li)收获等级：4-5"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:rose_gold_axe",
+      "link_recipe": true,
+      "text": "统计：$(li)收获等级：1-3"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:green_gold_axe",
+      "link_recipe": true,
+      "text": "统计：$(li)收获等级：1-3"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:blue_gold_axe",
+      "link_recipe": true,
+      "text": "统计：$(li)收获等级：1-3"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:purple_gold_axe",
+      "link_recipe": true,
+      "text": "统计：$(li)收获等级：1-3"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:white_gold_axe",
+      "link_recipe": true,
+      "text": "统计：$(li)收获等级：1-3"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:black_gold_axe",
+      "link_recipe": true,
+      "text": "统计：$(li)收获等级：1-3"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:amalgam_axe",
+      "link_recipe": true,
+      "text": "统计：$(li)收获等级：???"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:alloy_axe",
+      "link_recipe": true,
+      "text": "统计:$(li)收获等级: ???$() $(br2)可以用各种合金制成的实验工具。 可以在配置中禁用。"
+    }
+  ]
+}

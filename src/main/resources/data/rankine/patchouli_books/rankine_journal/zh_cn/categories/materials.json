@@ -1,0 +1,6 @@
+{
+  "name": "材料",
+  "description": "复合材料的收集和制作细节。有些用于进一步制作.",
+  "icon": "rankine:mortar",
+  "sortnum": 3
+}

@@ -1,0 +1,17 @@
+{
+  "name": "金刚石砧座",
+  "icon": "rankine:diamond_anvil_cell",
+  "category": "machines",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "text",
+      "text": "目前用作宝石切割村民的兴趣点。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:diamond_anvil_cell",
+      "text": ""
+    }
+  ]
+}

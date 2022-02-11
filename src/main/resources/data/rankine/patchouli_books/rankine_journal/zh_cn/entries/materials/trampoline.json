@@ -1,0 +1,16 @@
+{
+  "name": "蹦床",
+  "icon": "rankine:trampoline",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": "蹦床是一种从实体运输系统中移除移动部件的简单方法。 只需降落在蹦床上就不会受到任何坠落伤害，并且会像粘液块一样被弹起。 但是，弹跳的高度取决于蹦床的数量。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:trampoline",
+      "text": ""
+    }
+  ]
+}

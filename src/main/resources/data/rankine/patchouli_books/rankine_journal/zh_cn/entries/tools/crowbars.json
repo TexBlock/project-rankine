@@ -1,0 +1,21 @@
+{
+  "name": "撬棍",
+  "icon": "rankine:steel_crowbar",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "改进了用于破坏由钉子等制成的东西的技术。 测试的材料包括木板、栅栏、栏杆、钣金和金属装饰品。 $(br)当攻击条没有冷却时左键点击使用。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:steel_crowbar",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:titanium_crowbar",
+      "text": ""
+    }
+  ]
+}

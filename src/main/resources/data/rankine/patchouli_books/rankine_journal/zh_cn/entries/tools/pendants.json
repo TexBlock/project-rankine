@@ -1,0 +1,41 @@
+{
+  "name": "吊坠",
+  "icon": "rankine:luck_pendant",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "当这些魔法遗物被随意拿在手中时，它们会给玩家带来有趣和有用的能力。 在给定的时间只能举行一个。 在飞船上，他们将拥有消失的诅咒。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:luck_pendant",
+      "text": "持有时：$(li)让佩戴者有机会从世界上挖掘重复的资源。 影响#rankine:luck_pendant 中的方块。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:speed_pendant",
+      "text": "持有时：$(li) 使佩戴者的移动速度提高"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:haste_pendant",
+      "text": "持有时：$(li)使佩戴者提高采矿速度"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:levitation_pendant",
+      "text": "按住时：$(li) 将玩家稳定在一个固定的 y 水平。 允许玩家在空气中行走（有点慢）。 不装备下降。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:health_pendant",
+      "text": "持有时：$(li) 使佩戴者的生命值提高 20 hp。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:repulsion_pendant",
+      "text": "持有时：$(li) 保护佩戴者免受新生物的伤害。 某些敌人可以在某些会影响他们的事件（例如攻击）后检测到玩家。"
+    }
+  ]
+}

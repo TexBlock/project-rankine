@@ -1,0 +1,26 @@
+{
+  "name": "生火",
+  "icon": "minecraft:flint_and_steel",
+  "category": "mechanics",
+  "pages": [
+    {
+      "type": "text",
+      "text": "如果你要被困一段时间没有铁，你可能想知道如何生火。 有几个选项可供您使用。 一种是在雷雨天站在外面，希望闪电完美地击中你的位置。 如果您不那么幸运~，请参阅以下页面。"
+    },
+    {
+      "type": "text",
+      "title": "燧石打火",
+      "text": "粉碎岩石，但更具体地说是击打燧石。 如果你双手拿着一块燧石并右键单击，你可以生火。 这可以用来点燃 $(l:machines/beehive_oven)蜂窝炉$() 或 $(l:machines/charcoal_pit)木炭坑$() 或只是一场森林火灾。 默认情况下，失去使用的燧石的几率为 30%（配置选项）。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "minecraft:flint_and_steel",
+      "text": "标准方式，没有任何改变"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:spark_lighter",
+      "text": "与打火石相同，但更耐用。"
+    }
+  ]
+}

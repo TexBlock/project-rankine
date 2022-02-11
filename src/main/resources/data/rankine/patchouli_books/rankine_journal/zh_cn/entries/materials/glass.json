@@ -1,0 +1,31 @@
+{
+  "name": "玻璃",
+  "icon": "rankine:lead_glass",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": "各类玻璃"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:lead_glass",
+      "text": "抵抗力增加。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:etched_glass0",
+      "text": "用于装饰。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:etched_glass1",
+      "text": "用于装饰。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:etched_glass2",
+      "text": "用于装饰。"
+    }
+  ]
+}

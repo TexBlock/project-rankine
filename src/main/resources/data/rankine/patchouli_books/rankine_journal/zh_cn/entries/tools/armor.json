@@ -1,0 +1,39 @@
+{
+  "name": "盔甲",
+  "icon": "rankine:brigandine_chestplate",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "游戏中存在各种盔甲套装。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:brigandine_chestplate",
+      "link_recipe": true,
+      "title": "强盗盔甲",
+      "text": "镀钢皮甲。 由皮革盔甲和锻造台上的钢锭组合而成。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:diving_chestplate",
+      "link_recipe": true,
+      "title": "潜水服",
+      "text": "由黄铜制成的盔甲。 让佩戴者可以更长时间地屏住呼吸。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:conduit_diving_chestplate",
+      "link_recipe": true,
+      "title": "C-P 潜水服",
+      "text": "升级的潜水盔甲。 在水中时为佩戴者提供导管电源。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:alloy_chestplate",
+      "link_recipe": true,
+      "title": "合金装甲",
+      "text": "与工具一样，合金盔甲的属性（盔甲、韧性、耐用性）取决于合金的成分。 合金盔甲的配方可以使用数据包或模组添加到外部。 默认情况下，有几个不同的食谱。"
+    }
+  ]
+}

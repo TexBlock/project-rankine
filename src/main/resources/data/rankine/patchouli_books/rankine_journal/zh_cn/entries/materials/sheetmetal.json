@@ -1,0 +1,101 @@
+{
+  "name": "金属板",
+  "icon": "rankine:steel_sheetmetal",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "anchor": "sheetmetal",
+      "text": "金属板广泛用于工业建筑中。 它们可用于制造机械、制作其他组件或用于装饰。 $(br2)存在两大类，功能性和装饰性。 它们以这种方式出现是因为某些材料不适合工业过程的压力。"
+    },
+    {
+      "type": "text",
+      "text": "功能性钣金 (#forge:functional_sheetmetal) 包括：铜、锡、铅、铝、镍、钛、钨、青铜、黄铜、锻铁、钢和不锈钢。 $(br2)装饰性钣金件 (#forge:decorative_sheetmetals) 包括：银、金和铂金。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:copper_sheetmetal",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:tin_sheetmetal",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:lead_sheetmetal",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:bismuth_sheetmetal",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:aluminum_sheetmetal",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:nickel_sheetmetal",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:titanium_sheetmetal",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:tungsten_sheetmetal",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:gold_sheetmetal",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:silver_sheetmetal",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:platinum_sheetmetal",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:bronze_sheetmetal",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:brass_sheetmetal",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:cupronickel_sheetmetal",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:invar_sheetmetal",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:steel_sheetmetal",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:stainless_steel_sheetmetal",
+      "text": ""
+    }
+  ]
+}

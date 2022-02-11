@@ -1,0 +1,31 @@
+{
+  "name": "砂浆",
+  "icon": "rankine:mortar",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": "砂浆是泥土材料的湿混合物，用于将石头粘合在一起。 它是通过将干砂浆投入水中制成的。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:mortar_simple",
+      "text": "一种非常简单的混合物，可以在紧要关头制作。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:mortar",
+      "text": "标准的历史配方包括 $(l:exploration/stones#limestone)石灰石。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:mortar_quicklime",
+      "text": "通过 $(l:machines/beehive_oven)蜂窝炉$() 将石灰制备成生石灰可以提高效率。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:mortar_pozzolan",
+      "text": "沙粒可以用火山灰代替，火山灰是在 $(l:machines/piston_crusher)活塞式破碎机$()中粉碎 $(l:exploration/stones#pumice)浮石$() 和 $(l:exploration/stones#scoria)火山渣$()"
+    }
+  ]
+}

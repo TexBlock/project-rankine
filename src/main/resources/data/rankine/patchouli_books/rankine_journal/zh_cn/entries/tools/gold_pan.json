@@ -1,0 +1,27 @@
+{
+  "name": "淘金盘",
+  "icon": "rankine:steel_gold_pan",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "手动冲洗某些富含矿物质的沙子可以产生宝贵的资源。 $(br)通过右键单击块来筛选资源（请参阅 JEI 以获取收益）。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:steel_gold_pan"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:alluvium",
+      "link_recipe": true,
+      "text": "存在于河床和海床中。 产出各种矿物和宝石。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:black_sand",
+      "link_recipe": true,
+      "text": "发现于下界的下部。 产出各种矿物和宝石。"
+    }
+  ]
+}

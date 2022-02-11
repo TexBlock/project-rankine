@@ -1,0 +1,59 @@
+{
+  "name": "蒸发塔",
+  "icon": "rankine:evaporation_tower",
+  "category": "machines",
+  "sortnum": 8,
+  "pages": [
+	{
+      "type": "text",
+      "text": "一种从水中去除重物质的方法。 建造时，塔会缓慢被动地产生各种资源（只能在空输出时运行，使用漏斗！！）。 可掠夺的资源取决于一个位置（生物群系）的水。 $(li)海洋和沙漠 $(li)河流和沼泽 $(li)其他地方"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:evaporation_tower",
+      "text": ""
+    },
+    {
+      "type": "multiblock",
+      "multiblock_id": "multiblock",
+      "multiblock": {
+        "pattern": [
+          [ "  SSS  "," SBBBS ","SBBBBBS", "SBBWBBS","SBBBBBS"," SBBBS ", "  SSS  " ],
+          [ "       ","  MMM  "," MMMMM ", " MM0MM "," MMMMM ","  MMM  ", "       " ]
+        ],
+        "mapping": {
+          "M": "minecraft:magma_block",
+          "W": "minecraft:water",
+          "B": "minecraft:bubble_column",
+          "0": "rankine:evaporation_tower",
+          "S": "#forge:sheetmetal"
+        },
+        "symmetrical": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "施工说明： $(li)里面装满了水 $(li)墙壁由任何金属板制成。 $(li) 可以添加更多层的金属板和水以提高加工速度。 tick速度计算为 3200（在配置中定义）/层数（配置中的最大值，默认为 15）。"
+    },
+    {
+      "type": "text",
+      "title": "蒸发锅炉",
+      "text": "蒸发塔结构的较小版本可用于将流体煮沸成某些材料。 结构如下页所示。 流体被放置在蒸发塔块上方的空间中。"
+    },
+    {
+      "type": "multiblock",
+      "multiblock_id": "multiblock",
+      "multiblock": {
+        "pattern": [
+          [ " S ", "S S"," S " ],
+          [ " S ", "S0S"," S " ]
+        ],
+        "mapping": {
+          "0": "rankine:evaporation_tower",
+          "S": "#forge:sheetmetal"
+        },
+        "symmetrical": true
+      }
+    }
+  ]
+}

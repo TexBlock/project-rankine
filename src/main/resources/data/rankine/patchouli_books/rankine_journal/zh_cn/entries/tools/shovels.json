@@ -1,0 +1,115 @@
+{
+  "name": "铲子",
+  "icon": "rankine:steel_shovel",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "能够制造的各种铲子的列表。 $(br2)Vanilla 工具可以在配置中启用/禁用，默认情况下禁用以进行进度。"
+    },
+    {
+      "type": "text",
+      "text": "铲子正常工作。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:flint_shovel",
+      "text": "统计：$(li)收获水平： 0"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:pewter_shovel",
+      "text": "统计：$(li)收获水平： 1"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:bronze_shovel",
+      "text": "统计：$(li)收获水平： 1"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:invar_shovel",
+      "text": "统计：$(li)收获水平： 2"
+    },
+    {
+      "type": "crafting",
+      "recipe": "minecraft:iron_shovel",
+      "text": "Stats:$(li)Harvest wLevel: 1"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:steel_shovel",
+      "text": "统计：$(li)收获水平： 3"
+    },
+    {
+      "type": "crafting",
+      "recipe": "minecraft:diamond_shovel",
+      "text": "统计：$(li)收获水平： 3"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:netherite_shovel",
+      "text": "统计：$(li)收获水平： 4"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:stainless_steel_shovel",
+      "text": "统计：$(li)收获水平： 3-4"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:nickel_superalloy_shovel",
+      "text": "统计：$(li)收获水平： 3-4"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:cobalt_superalloy_shovel",
+      "text": "统计：$(li)收获水平： 3-4"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:tungsten_heavy_alloy_shovel",
+      "text": "统计：$(li)收获水平： 3-4"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:rose_gold_shovel",
+      "text": "统计：$(li)收获水平： 0-2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:green_gold_shovel",
+      "text": "统计：$(li)收获水平： 0-2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:blue_gold_shovel",
+      "text": "统计：$(li)收获水平： 0-2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:purple_gold_shovel",
+      "text": "统计：$(li)收获水平： 0-2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:white_gold_shovel",
+      "text": "统计：$(li)收获水平： 0-2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:black_gold_shovel",
+      "text": "统计：$(li)收获水平： 0-2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:amalgam_shovel",
+      "text": "统计：$(li)收获水平： ???"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:alloy_shovel",
+      "text": "统计：$(li)收获水平： ???$() $(br2)一种可以由各种合金制成的实验工具。 可以在配置中禁用。"
+    }
+  ]
+}

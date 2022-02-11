@@ -1,0 +1,11 @@
+{
+  "name": "元素",
+  "icon": "rankine:element",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": "制作中"
+    }
+  ]
+}

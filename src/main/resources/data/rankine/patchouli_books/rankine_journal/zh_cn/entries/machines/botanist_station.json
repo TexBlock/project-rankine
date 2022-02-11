@@ -1,0 +1,17 @@
+{
+  "name": "植物学家站",
+  "icon": "rankine:botanist_station",
+  "category": "machines",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "目前用作植物学家村民的兴趣点。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:botanist_station",
+      "text": ""
+    }
+  ]
+}

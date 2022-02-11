@@ -1,0 +1,15 @@
+{
+  "name": "鹅卵石图腾",
+  "icon": "rankine:totem_of_cobbling",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "库存被石头弄得乱七八糟？当然是。解决方案，一个图腾，存储8堆石头。如果用你的手拿着，挖掘的石头将被储存在图腾中，并且可以通过右键点击以鹅卵石的形式取回。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:totem_of_cobbling"
+    }
+  ]
+}

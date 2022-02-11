@@ -1,0 +1,91 @@
+{
+  "name": "LED灯 （发光二极管）",
+  "icon": "rankine:blue_led",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": "发光二极管（LED）是纯色灯块。 右键单击染料将改变世界的颜色。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:red_led",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:orange_led",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:yellow_led",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:lime_led",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:green_led",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:cyan_led",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:blue_led",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:light_blue_led",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:magenta_led",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:purple_led",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:pink_led",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:brown_led",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:black_led",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:gray_led",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:light_gray_led",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:white_led",
+      "text": ""
+    }
+  ]
+}

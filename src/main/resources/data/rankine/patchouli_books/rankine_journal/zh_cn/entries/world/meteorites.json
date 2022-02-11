@@ -1,0 +1,63 @@
+{
+  "name": "陨石",
+  "icon": "rankine:meteorite",
+  "category": "world",
+  "pages": [
+    {
+      "type": "text",
+      "text": "陨石散布在世界表面。 末地岛屿的底部是由类似的材料制成的。 它们里面的矿石可以开采出含有铁和镍成分的金属块。 这些块可以被炸成铁或用于因瓦工具。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:meteorite",
+      "link_recipe": true,
+      "text": "基础陨石材料。 可粉碎成硅和硫。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:meteorite_paver",
+      "text": "陨石的装饰形式。 像石砖一样提高移动速度。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:enstatite",
+      "link_recipe": true,
+      "text": "类似于标准陨石。 只在末地中找到。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:enstatite_paver",
+      "text": "顽火辉石的装饰形式。 像石砖一样提高移动速度。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:kamacite_ore",
+      "link_recipe": true,
+      "text": "在陨石中发现的材料，其成分为 90%Fe-10%Ni。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:antitaenite_ore",
+      "link_recipe": true,
+      "text": "在陨石中发现的材料，其成分为 80%Fe-20%Ni."
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:taenite_ore",
+      "link_recipe": true,
+      "text": "在陨石中发现的材料，其成分为 60%Fe-40%Ni。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:tetrataenite_ore",
+      "link_recipe": true,
+      "text": "在陨石中发现的材料，其成分为 50%Fe-50%Ni。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:lonsdaleite_ore",
+      "link_recipe": true,
+      "text": "在陨石中发现的材料，其成分与钻石非常相似。"
+    }
+  ]
+}

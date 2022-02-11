@@ -1,0 +1,11 @@
+{
+  "name": "垂直板",
+  "icon": "rankine:comendite_bricks_vertical_slab",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": "垂直板，相当不言自明。 像平板一样制作，但垂直或在切石机中制作。 垂直板用于石材变体、木板、钣金和一些杂项块。 未来将增加角落连接和积水。"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "元素索引器",
+  "icon": "rankine:element_indexer",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "经检查，合金化过程中使用的大多数材料都具有一些固有的特性。 对于制造锭的最终目标来说，这并不重要，但对于工具来说，可能会产生深远的影响。"
+    },
+    {
+      "type": "text",
+      "text": "要查看元素的统计信息，请右键单击元素索引器并将锭放在左上角的插槽中。 下面将显示各个类别的统计数据。 此外，在 GUI 中，滚动会改变您正在查看的材料的百分比。 有关详细信息，请参阅 $(l:alloying/alloying)关于 合金化$() 的说明。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:element_indexer"
+    }
+  ]
+}

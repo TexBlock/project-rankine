@@ -1,0 +1,35 @@
+{
+  "name": "凝灰岩",
+  "icon": "rankine:andesitic_tuff",
+  "category": "world",
+  "pages": [
+    {
+      "type": "text",
+      "text": "凝灰岩是一种源自其母石的灰质材料，通常在火山活动期间形成，蓬松的岩石沉积在顶部。 它可用于装饰或制作 $(l:materials/concrete)罗马混凝土$()。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:andesitic_tuff",
+      "link_recipe": true,
+      "text": "在 $(l:exploration/stones#hornblende_andesite)角闪石安山岩$() 层中发现。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:rhyolitic_tuff",
+      "link_recipe": true,
+      "text": "在 $(l:exploration/stones#rhyolite)流纹岩$() 层中发现。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:basaltic_tuff",
+      "link_recipe": true,
+      "text": "在 $(l:exploration/stones#tholeiitic_basalt)拉斑玄武岩$() 层中发现。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:dacitic_tuff",
+      "link_recipe": true,
+      "text": "在 $(l:exploration/stones#red_dacite)红英安岩() 和 $(l:exploration/stones#black_dacite)黑英安岩() 层中发现。"
+    }
+  ]
+}

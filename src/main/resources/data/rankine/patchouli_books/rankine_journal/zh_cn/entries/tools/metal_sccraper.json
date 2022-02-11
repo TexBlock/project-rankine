@@ -1,0 +1,15 @@
+{
+  "name": "金属刮刀",
+  "icon": "rankine:metal_scraper",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "金属刮刀目前只有一种用途。 当在石砖上使用时，它会刮掉 $(l:materials/mortar)砂浆$() 并将块转换为相应的石块。 这是砂浆将石头转化为砖块的逆功能。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:metal_scraper"
+    }
+  ]
+}

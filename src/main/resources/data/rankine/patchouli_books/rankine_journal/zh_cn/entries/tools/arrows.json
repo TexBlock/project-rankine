@@ -1,0 +1,26 @@
+{
+  "name": "箭头",
+  "icon": "rankine:alloy_arrow",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "像工具一样，合金箭头根据合金的成分获得它的统计数据（损坏）。 合金盔甲的配方可以使用数据包或模组添加到外部。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:steel_arrow",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:thorium_arrow",
+      "text": "撞击时召唤闪电。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:magnesium_arrow",
+      "text": "在地面上时使附近的敌人致盲。 被击中的生物会触发附近的不死生物进行攻击。 爬行者在撞击时爆炸。"
+    }
+  ]
+}

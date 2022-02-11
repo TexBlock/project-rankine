@@ -1,0 +1,61 @@
+{
+  "name": "晶洞",
+  "icon": "rankine:uncut_geode",
+  "category": "world",
+  "pages": [
+    {
+      "type": "text",
+      "text": "晶洞是堆积在岩洞中的矿物和宝石矿床。 通过石头采矿时，有机会找到未切割的geode。 该物品可以与 $(l:mechanics/villagers)宝石切割者村民$() 交易，以获得多种晶洞。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:diamond_geode",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:emerald_geode",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:aquamarine_geode",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:opal_geode",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:sapphire_geode",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:garnet_geode",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:ruby_geode",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:topaz_geode",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:peridot_geode",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:tourmaline_geode",
+      "link_recipe": true
+    }
+  ]
+}

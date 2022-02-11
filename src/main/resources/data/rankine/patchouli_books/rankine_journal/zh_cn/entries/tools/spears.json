@@ -1,0 +1,96 @@
+{
+  "name": "长矛",
+  "icon": "rankine:steel_spear",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "能够制造的各种长矛的列表。"
+    },
+    {
+      "type": "text",
+      "text": "长矛是一种新型工具，其功能类似于三叉戟。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:flint_spear"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:pewter_spear"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:bronze_spear"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:invar_spear"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:iron_spear"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:steel_spear"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:diamond_spear"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:netherite_spear"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:stainless_steel_spear"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:nickel_superalloy_spear"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:cobalt_superalloy_spear"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:tungsten_heavy_alloy_spear"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:rose_gold_spear"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:green_gold_spear"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:blue_gold_spear"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:purple_gold_spear"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:white_gold_spear"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:black_gold_spear"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:amalgam_spear"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:alloy_spear",
+      "text": "一种可以由各种合金制成的实验工具。 可以在配置中禁用."
+    }
+  ]
+}

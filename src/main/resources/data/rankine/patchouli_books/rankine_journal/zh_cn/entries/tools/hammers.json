@@ -1,0 +1,115 @@
+{
+  "name": "锤子",
+  "icon": "rankine:steel_hammer",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "能够制造的各种锤子的列表。"
+    },
+    {
+      "type": "text",
+      "text": "锤子是一种新型工具，其功能类似于现实世界中的破碎机。 通过左键单击一个块来摆动锤子并粉碎它。 挥杆速度取决于类似于剑的工具，但并不总是跟随攻击指示器。 破碎产品与 $(l:machines/piston_crusher)活塞破碎机$() 中的产品相同。 更高级别的锤子将产生更多的产品。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:stone_hammer",
+      "text": "统计：$(li)收获水平：0"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:pewter_hammer",
+      "text": "统计：$(li)收获水平：1"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:bronze_hammer",
+      "text": "统计：$(li)收获水平：1"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:invar_hammer",
+      "text": "统计：$(li)收获水平：2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:iron_hammer",
+      "text": "统计：$(li)收获水平：1"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:steel_hammer",
+      "text": "统计：$(li)收获水平：3"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:diamond_hammer",
+      "text": "统计：$(li)收获水平：3"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:netherite_hammer",
+      "text": "统计：$(li)收获水平：4"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:stainless_steel_hammer",
+      "text": "统计：$(li)收获水平： 3-4"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:nickel_superalloy_hammer",
+      "text": "统计：$(li)收获水平：3-4"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:cobalt_superalloy_hammer",
+      "text": "统计：$(li)收获水平：3-4"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:tungsten_heavy_alloy_hammer",
+      "text": "统计：$(li)收获水平：3-4"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:rose_gold_hammer",
+      "text": "统计：$(li)收获水平：0-2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:green_gold_hammer",
+      "text": "统计：$(li)收获水平：0-2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:blue_gold_hammer",
+      "text": "统计：$(li)收获水平：0-2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:purple_gold_hammer",
+      "text": "统计：$(li)收获水平：0-2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:white_gold_hammer",
+      "text": "统计：$(li)收获水平：0-2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:black_gold_hammer",
+      "text": "统计：$(li)收获水平：0-2"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:amalgam_hammer",
+      "text": "统计：$(li)收获水平：???"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:alloy_hammer",
+      "text": "统计：$(li)收获水平：???$() $(br2)可以用各种合金制成的实验工具。 可以在配置中禁用。"
+    }
+  ]
+}

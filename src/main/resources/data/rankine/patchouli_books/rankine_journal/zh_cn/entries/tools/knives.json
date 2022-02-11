@@ -1,0 +1,19 @@
+{
+  "name": "刀",
+  "icon": "rankine:flint_knife",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "刀对于割除杂草和收割它们也非常有用。 有效地通过树叶采矿。 $(br)通过右键单击草块来移除草层。 还可以剪草、蕨类植物和藤蔓。 枯死的灌木会产生更多的树枝。 此功能适用于#rankine:knives 中的项目。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:flint_knife"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:alloy_recipes/knives/metal_knife"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "凿岩机",
+  "icon": "rankine:rock_drill",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "不要直接往下挖。 凿岩机无需挖掘即可发现您脚下的岩石层。 $(br2)右击方块使用，图层会在聊天面板中输出。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:alloy_recipes/rock_drill"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "路径创建",
+  "icon": "minecraft:grass_path",
+  "category": "mechanics",
+  "pages": [
+    {
+      "type": "text",
+      "text": "你想在不铲雪的情况下提高你的跑步速度吗？ 你想跟踪地图周围的玩家吗？ 好吧，在四处走动时，玩家偶尔会将其下方的地面转换为路径块。 请参阅配置了解时间。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:mycelium_path",
+      "text": "可以像草一样创建菌丝体路径。 Podzol 将与 1.17 变化形成平价草地路径。"
+    }
+  ]
+}

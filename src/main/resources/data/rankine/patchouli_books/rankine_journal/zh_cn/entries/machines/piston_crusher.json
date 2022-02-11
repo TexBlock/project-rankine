@@ -1,0 +1,22 @@
+{
+  "name": "活塞式破碎机",
+  "icon": "rankine:piston_crusher",
+  "category": "machines",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "text",
+      "anchor": "piston_crusher",
+      "text": "粉碎材料是获取精炼资源的最佳方法。 只需将材料放入输入槽并为机器加油。 活塞破碎机充当自动铁锤，被认为具有 3（因瓦合金）的破碎等级。"
+    },
+    {
+      "type": "text",
+      "text": "这意味着活塞破碎机最多只能从块中获得三滴。 活塞式破碎机可以破碎破碎等级大于3的方块，但只能获得破碎等级等于或小于3的输出。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:piston_crusher",
+      "text": "通过 JEI 可以看到粉碎输出。"
+    }
+  ]
+}

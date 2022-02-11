@@ -1,0 +1,26 @@
+{
+  "name": "梯子",
+  "icon": "rankine:aluminum_ladder",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": "更多的结构组件可用于创建梯子。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:aluminum_ladder",
+      "text": "空手右击可立即到达顶部。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:cast_iron_ladder",
+      "text": "功能性装饰。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:brass_ladder",
+      "text": "功能性装饰。"
+    }
+  ]
+}

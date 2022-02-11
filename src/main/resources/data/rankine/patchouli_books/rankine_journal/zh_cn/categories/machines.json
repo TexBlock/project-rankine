@@ -1,0 +1,6 @@
+{
+  "name": "机器",
+  "description": "用于创建各种材料和组件的机械设备。",
+  "icon": "rankine:alloy_furnace",
+  "sortnum": 4
+}

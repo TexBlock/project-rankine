@@ -1,0 +1,6 @@
+{
+  "name": "工具",
+  "description": "工具主要有两种类型。像玻璃切割器或温度计这样的个人工具有其独特的用途。那些在工具集，如青铜是标准的镐，斧头和矛。. 工具集创建在 $(l:machines/coal_forge)Coal Forge$() 除了打火石。",
+  "icon": "rankine:stainless_steel_hammer",
+  "sortnum": 5
+}

@@ -1,0 +1,86 @@
+{
+  "name": "蜂窝炉",
+  "icon": "rankine:beehive_oven_pit",
+  "category": "machines",
+  "sortnum": 1,
+  "pages": [
+	{
+      "type": "text",
+      "text": "蜂窝炉就像一个世界上的熔炉。 然而，只有几个配方有效。 有些方块只能在蜂窝炉中长时间制作。 *支持数据包。"
+    },
+    {
+      "type": "text",
+      "title": "Current Conversions",
+      "text": "有关完整列表，请参阅 JEI。 $(li)次烟煤 --> 烟煤 $(li)烟煤 --> 焦炭 $(li)石灰石 --> 生石灰 $(li)菱镁矿 --> 镁砂 $(li)骨块 --> 焦炭 $(li)高岭石 --> 瓷器 $(li)粘土 --> 陶土 $(li)彩色陶土 --> 釉面陶土"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:beehive_oven_pit",
+      "text": "有关最小结构，请参见下一页。 该坑根据随机tick一次转换一个块。 可以升级以更快地工作。 可以在坑上点击烈焰粉来瞬间加工一格。"
+    },
+    {
+      "type": "multiblock",
+      "title": "Basic Oven",
+      "multiblock_id": "multiblock",
+      "multiblock": {
+        "pattern": [
+          [ "   ", " 0 ", "   " ],
+          [ "WWW", "WPW", "WWW" ]
+        ],
+        "mapping": {
+          "P": "rankine:beehive_oven_pit",
+          "W": "rankine:refractory_bricks"
+        },
+        "symmetrical": true
+      }
+    },
+    {
+      "type": "text",
+      "text": "$(l:mechanics/fire)点火$() 要激活的坑。 它将加工外环上两个方块高的方块（总共 16 个方块）。 当没有检测到可加工的块时，坑会停用。 该结构可以扩展到下一页的大小。 结构越完整，过程越快。 坑可以升级以允许在结构中使用更高等级的耐火砖。"
+    },
+    {
+      "type": "multiblock",
+      "title": "Full Oven",
+      "multiblock_id": "multiblock",
+      "multiblock": {
+        "pattern": [
+          [ "  R  ",
+            " RRR ",
+            "RR RR",
+            " RRR ",
+            "  R  " ],
+          [ " R R ",
+            "R   R",
+            "     ",
+            "R   R",
+            " R R " ],
+          [ " R R ",
+            "R   R",
+            "  0  ",
+            "R   R",
+            " R R " ],
+          [ " RRR ",
+            "RRRRR",
+            "RRPRR",
+            "RRRRR",
+            " RRR " ]
+        ],
+        "mapping": {
+          "P": "rankine:beehive_oven_pit",
+          "R": "rankine:refractory_bricks"
+        },
+        "symmetrical": true
+      }
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:high_beehive_oven_pit",
+      "text": "允许使用高耐火砖来提高速度。 必须升级周围的8块砖才能使用。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:ultra_high_beehive_oven_pit",
+      "text": "允许使用超高耐火砖一次烹饪多个方块。 必须升级周围的8块砖才能使用。"
+    }
+  ]
+}

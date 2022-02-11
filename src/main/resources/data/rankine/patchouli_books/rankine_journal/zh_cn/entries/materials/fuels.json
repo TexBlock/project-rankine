@@ -1,0 +1,64 @@
+{
+  "name": "燃料",
+  "icon": "rankine:biomass",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": "世界上存在多种燃料源来为前电机提供动力。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:biomass",
+      "link_recipe": true,
+      "text": "生物质是源自植物物质的燃料来源。 作物和叶子可以被$(l:mechanics/crushing)粉碎$()以产生生物质。 生物质的燃料值为 50。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:compressed_biomass",
+      "text": "将生物质制成浓缩形式使其成为更合适的燃料。 压缩生物质的燃料值为 200。"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:charcoal",
+      "anchor": "charcoal",
+      "link_recipe": true,
+      "text": "木炭是源自部分氧化有机物的浓缩碳源。 可以在配置中禁用/启用传统的冶炼日志方式。 $(l:machines/charcoal_pit)木炭坑$() 中概述了创建木炭的新过程。 此外，压缩生物质可以在高炉中煮熟以产生木炭。木炭的燃料价值为 800。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:lignite",
+      "anchor": "lignite",
+      "link_recipe": true,
+      "text": "世界上发现的煤炭矿石之一。 可用于制作 3 个火把。 褐煤的燃料值为 1200。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:subbituminous_coal",
+      "anchor": "subbituminous_coal",
+      "link_recipe": true,
+      "text": "世界上发现的煤炭矿石之一。 可用于制作 4 个火把。 次烟煤的燃料值为 1600。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:bituminous_coal",
+      "anchor": "bituminous_coal",
+      "link_recipe": true,
+      "text": "世界上发现的煤炭矿石之一。 可用于制作 6 个火把。 烟煤的燃料价值为 2400。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:anthracite_coal",
+      "anchor": "anthracite_coal",
+      "link_recipe": true,
+      "text": "在世界中发现的一种煤炭矿石（默认为下界）。 可用于制作 8 个火把。 无烟煤的燃料价值为 3200。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:coke",
+      "anchor": "coke",
+      "link_recipe": true,
+      "text": "焦炭是一种精炼碳源，与煤相比硫含量低。 它是通过在 $(l:machines/beehive_oven)蜂窝炉$() 上烹饪次烟煤或烟煤块制成的。 可用于用铸铁棒制作 16 个火把。 可乐的燃料价值为 3200。"
+    }
+  ]
+}

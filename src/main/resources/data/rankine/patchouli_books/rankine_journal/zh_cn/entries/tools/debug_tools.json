@@ -1,0 +1,46 @@
+{
+  "name": "调试工具",
+  "icon": "rankine:altimeter",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "太忙了按F3？ 或者它可能被禁用了？ 好吧，不用担心，已经添加了各种实用工具来显示信息。 工具将在您的主手或副手时显示在状态栏上。 默认为头部位置，潜行为脚部位置。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "minecraft:compass",
+      "text": "显示方向和 X、Z 坐标。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "minecraft:clock",
+      "text": "显示 24 小时制时钟时间和世界滴答时间。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:altimeter",
+      "text": "显示 Y 坐标。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:photometer",
+      "text": "显示亮度。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:speedometer",
+      "text": "以每秒块数显示速度"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:thermometer",
+      "text": "显示模块温度。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:biometer",
+      "text": "显示当前的生物群系。"
+    }
+  ]
+}

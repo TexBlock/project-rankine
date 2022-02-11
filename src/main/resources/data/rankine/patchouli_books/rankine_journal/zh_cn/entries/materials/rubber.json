@@ -1,0 +1,27 @@
+{
+  "name": "橡胶",
+  "icon": "rankine:dry_rubber",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": "橡胶是一种用于各种用途的弹性材料。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:dry_rubber",
+      "link_recipe": true,
+      "text": "干橡胶是通过在$(l:machines/evaporation_tower)蒸发塔$()中加工胶乳获得的."
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:vulcanized_rubber",
+      "text": "一种更具弹性的橡胶，可用于制造某些部件。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:vulcanized_rubber_sodium_sulfide",
+      "text": "使用硫化钠生产更多硫化橡胶的替代工艺方法."
+    }
+  ]
+}

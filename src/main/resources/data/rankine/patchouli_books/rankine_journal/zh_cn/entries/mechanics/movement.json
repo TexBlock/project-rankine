@@ -1,0 +1,30 @@
+{
+  "name": "移动速度",
+  "icon": "rankine:roman_concrete",
+  "category": "mechanics",
+  "pages": [
+    {
+      "type": "text",
+      "text": "为了模拟在不同环境中行走的难易程度，一些方块被赋予了运动修饰符来影响玩家的速度。 少数更改的块具有更改其速度的配置和完全禁用所有效果的覆盖。"
+    },
+    {
+      "type": "text",
+      "text": "默认情况下，材质越复杂，其制作的路径就越好。 沙地和雪地使玩家比平时慢一些。 泥土和石头以及所有未受影响的块都处于默认速度。 草径、木板及其变体、抛光石及其变体的速度稍快。 砖块、石砖块、混凝土及其变体是第二快的。 最后，罗马混凝土是最快的（大约相当于速度 2）。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:sandals",
+      "text": "凉鞋可以用来在沙块上走得更快。 将任何类型的靴子与凉鞋结合在铁砧上，以应用 $(l:mechanics/enchantments#dune_walker)沙丘行者$() 附魔。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:snowshoes",
+      "text": "雪鞋可以用来在沙块上走得更快。 将任何类型的靴子与雪鞋结合在铁砧上，以应用 $(l:mechanics/enchantments#snow_drifter)雪地漂泊者$() 附魔。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:ice_skates",
+      "text": "溜冰鞋可以用来在冰块上走得更快。 将任何类型的靴子与冰刀放在铁砧上组合，以应用 $(l:mechanics/enchantments#speed_skater)速滑运动员$() 附魔。"
+    }
+  ]
+}

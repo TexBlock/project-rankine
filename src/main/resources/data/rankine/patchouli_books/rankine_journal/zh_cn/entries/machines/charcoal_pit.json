@@ -1,0 +1,17 @@
+{
+  "name": "木炭坑",
+  "icon": "rankine:charcoal_pit",
+  "category": "machines",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "木炭坑是一种将原木和木块转化为烧焦木材的设备。 破碎时，烧焦的木头会掉落木炭，木炭的数量将根据转化后的木材质量而定。 木炭坑将在配置定义的半径内搜索。 可以堆叠多个坑（最高到配置中定义的高度）并将转换所有 y 级别的日志。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:charcoal_pit",
+      "text": "对于要转换的原木，它的所有六个面都必须被一个实心块覆盖。 原木块也必须通过其他原木块连接到木炭坑。 $(l:mechanics/fire)点火$() 一个坑将照亮垂直列中的所有坑。"
+    }
+  ]
+}

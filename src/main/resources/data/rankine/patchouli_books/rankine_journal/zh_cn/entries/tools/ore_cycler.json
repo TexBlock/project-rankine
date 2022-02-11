@@ -1,0 +1,15 @@
+{
+  "name": "矿石循环器",
+  "icon": "rankine:ore_cycler",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "现在可以使用矿石纹理进行装饰。 这个装置可以改变任何给定矿石块的背景。 $(br)通过右键单击矿石来使用各种方块状态。 此外，使用 /setblock rankine:xxx_ore[type=#] 设置各种类型的矿石块。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:ore_cycler"
+    }
+  ]
+}

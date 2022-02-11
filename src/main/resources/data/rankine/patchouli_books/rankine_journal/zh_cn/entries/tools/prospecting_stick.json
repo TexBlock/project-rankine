@@ -1,0 +1,16 @@
+{
+  "name": "探矿棒",
+  "icon": "rankine:prospecting_stick",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "一种能够感应矿石，甚至是非金属矿石的装置。 $(br)通过右键单击一个块来使用。 设备在被点击的人脸后面沿直线搜索（范围可在配置中调整）。 显示找到的矿石的收获水平。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:prospecting_stick",
+      "text": "成功使用后有 25% 的几率断裂。"
+    }
+  ]
+}

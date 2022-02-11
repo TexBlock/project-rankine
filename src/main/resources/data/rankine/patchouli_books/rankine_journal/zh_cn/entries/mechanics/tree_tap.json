@@ -1,0 +1,74 @@
+{
+  "name": "收获树汁",
+  "icon": "rankine:tree_tap",
+  "category": "mechanics",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Tree Tap 是一种从原木中提取各种液体的设备。 水龙头块只是一根从原木中伸出的棍子。 用空桶右键单击以将其挂在水龙头上。 带有桶的水龙头最终会充满液体，并且可以通过右键单击来检索。 提取的流体由#rankine:logs_* 标签组定义。 额外的设备可用于自动化攻丝过程。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:tree_tap",
+      "text": "水龙头在随机滴答声上运行。 默认情况下，它将每 3 个刻度提取一次，但这可以在配置中进行调整。 如果任何相邻块中有另一个树水龙头将不起作用。 此外，树需要有生命，这意味着树必须包含自然产生的叶子。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:tap_barrel",
+      "text": "龙头桶是用于盛放任何由采树产生的液体的罐。 它可以容纳六桶液体。 右键单击要使用的空桶或满桶。 具有基于关闭电平的比较器输出。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:fluid_drain",
+      "text": "流体排放口就像一个料斗，但用于流体。 它会在其上方放置一个来自水龙头桶的流体块。 用于自动化蒸发塔设置。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:tap_line",
+      "text": "抽头线本质上是一个管网，用于树抽头输出到抽头桶。 流体不能向上流动。 水龙头线将从下方连接到桶形树水龙头或连接到四个侧面的水龙头桶。 ~30 格最大距离。"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:water_bucket",
+      "link_recipe": true,
+      "text": "可以从三种桦树中提取水。"
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:lava_bucket",
+      "link_recipe": true,
+      "text": "熔岩可以从下界树中提取。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:latex_bucket",
+      "link_recipe": true,
+      "text": "乳胶可以从共享树中提取。 用于在 $(l:machines/evaporation_tower)蒸发塔$() 中制造干橡胶。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:maple_sap_bucket",
+      "link_recipe": true,
+      "text": "枫树汁可以从枫树中提取。 用于在 $(l:machines/evaporation_tower)蒸发塔$() 中制作枫糖浆。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:juglone_bucket",
+      "link_recipe": true,
+      "text": "胡桃醌可以从黑胡桃树中提取。 用于制作除草剂。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:sap_bucket",
+      "link_recipe": true,
+      "text": "树液可以从任何其他落叶树中提取。 用于在 $(l:machines/evaporation_tower)蒸发塔$() 中制造糖。"
+    },
+    {
+      "type": "spotlight",
+      "item": "rankine:resin_bucket",
+      "link_recipe": true,
+      "text": "树脂可以从任何其他针叶树中提取。 用于在 $(l:machines/evaporation_tower)蒸发塔$() 中制造琥珀。"
+    }
+  ]
+}

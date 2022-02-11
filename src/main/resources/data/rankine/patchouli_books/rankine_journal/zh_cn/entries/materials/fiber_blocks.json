@@ -1,0 +1,21 @@
+{
+  "name": "纤维块",
+  "icon": "rankine:fiber_block",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": "植物纤维可用于制作绳索和方块。 这些块是一种简单的燃料来源，但主要用于建筑。 块和垫子的染色变体具有类似于釉面陶土的功能。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:fiber_block",
+      "text": "提供染色变体。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:fiber_mat",
+      "text": "提供染色变体"
+    }
+  ]
+}

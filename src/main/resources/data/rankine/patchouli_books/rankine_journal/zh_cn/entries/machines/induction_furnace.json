@@ -1,0 +1,17 @@
+{
+  "name": "感应炉",
+  "icon": "rankine:induction_furnace",
+  "category": "machines",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "text",
+      "anchor": "induction_furnace",
+      "text": "感应炉的功能与 $(l:machines/alloy_furnace)合金炉$() 相同，但需要动力电池。 更高级别的电池可提高机器的速度。 参见 JEI 或 $(l:alloying/induction_furnace_alloys)感应炉合金$()。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:induction_furnace"
+    }
+  ]
+}

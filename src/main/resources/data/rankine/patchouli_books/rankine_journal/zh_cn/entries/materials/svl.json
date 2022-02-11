@@ -1,0 +1,21 @@
+{
+  "name": "钠蒸气灯",
+  "icon": "rankine:sodium_vapor_lamp",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": "可以悬挂或靠墙放置的时髦灯块。 可以连接到铸铁杆。 计划了更多未来的功能。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:sodium_arc_tube",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:sodium_vapor_lamp",
+      "text": ""
+    }
+  ]
+}

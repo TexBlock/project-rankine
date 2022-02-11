@@ -1,0 +1,15 @@
+{
+  "name": "斧头剥离",
+  "icon": "rankine:stripped_eastern_hemlock_log",
+  "category": "mechanics",
+  "pages": [
+    {
+      "type": "text",
+      "text": "斧头剥离的工作方式与以前相同，右键单击原木或木块将其转换为剥离的对应物。 然而，剥离某些树木有一点好处。 存在一个配置选项来启用/禁用额外的项目。"
+    },
+    {
+      "type": "text",
+      "text": "剥去各种白桦树会产生纸张。 软木 橡树产生软木。 所有其他树木都会产生树枝。"
+    }
+  ]
+}

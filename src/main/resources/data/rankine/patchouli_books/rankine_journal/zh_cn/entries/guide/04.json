@@ -1,0 +1,16 @@
+{
+  "name": "结束游戏",
+  "icon": "rankine:laser_quarry",
+  "category": "guide",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "text",
+      "text": "最强大的事情就是毁灭世界对吧？ 好吧，如果你建立一个 $(l:machines/laser_quarry)激光采石场$() 你可以做到这一点。 此外，诸如 $(l:machines/rankine_box)兰金盒$() 之类的后期游戏机器允许完全获取所有元素（获得这些进步）。"
+    },
+    {
+      "type": "text",
+      "text": "囤积资源永远是明智之举。 有些可以用来换取财富，有些可以耕种，有些则需要建造更大更好的东西。 任何东西都可能是有价值的，因为还有更多……"
+    }
+  ]
+}

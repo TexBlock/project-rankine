@@ -1,0 +1,15 @@
+{
+  "name": "玻璃刀",
+  "icon": "rankine:glass_cutter",
+  "category": "tools",
+  "pages": [
+    {
+      "type": "text",
+      "text": "为去除玻璃而锻造的工具。 它似乎在制作时被迷住了。 $(br)像普通工具一样使用，在玻璃上非常有效。 右键单击玻璃块将它们修剪成窗格。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:glass_cutter"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "激光采石场",
+  "icon": "rankine:laser_quarry",
+  "category": "machines",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一种可以开采大面积的设备。 在激活之前，必须在激光采石场中放置一个电池。 当用红石供电时，采石场将开始从其下方的柱子径向向外破坏块。 采石场会空化方块，但不会破坏矿石和不可采掘的方块，例如刷怪笼和基岩。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:quarry_barrier",
+      "text": "采石场屏障可以放置在激光采石场区域的任何位置，并且不会破坏其下方的任何块。 这可用于保护低于特定 y 水平的任何物体，或定义非方形墙壁图案。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:laser_quarry",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:laser_pylon_base",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:laser_pylon_top",
+      "text": ""
+    },
+    {
+      "type": "multiblock",
+      "multiblock_id": "multiblock",
+      "multiblock": {
+        "pattern": [
+          [ "  T  ", "     ", "T   T", "     ", "  T  " ],
+          [ "  S  ", " SSS ", "SS0SS", " SSS ", "  S  " ]
+        ],
+        "mapping": {
+          "0": "rankine:laser_quarry",
+          "S": "#forge:sheetmetals/stainless_steel",
+          "T": "rankine:laser_pylon_top"
+        },
+        "symmetrical": true
+      }
+    },
+    {
+      "type": "text",
+      "title": "笔记",
+      "text": "上一页所示的最小结构只会产生一个 3x3 的孔。 为了增加射程，激光塔基可以堆叠在多块显示的塔顶位置。 它们必须在顶部安装激光塔顶，并且每一层的高度等于一个额外的半径方块。 最大范围/高度可以在配置中设置。"
+    }
+  ]
+}

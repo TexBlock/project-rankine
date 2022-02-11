@@ -1,0 +1,126 @@
+{
+  "name": "附魔",
+  "icon": "minecraft:enchanted_book",
+  "category": "mechanics",
+  "pages": [
+	{
+      "type": "text",
+      "anchor": "enchantments",
+      "text": "为各种目的添加了额外的附魔。 "
+    },
+    {
+      "type": "text",
+      "title": "沙丘步行者",
+      "anchor": "dune_walker",
+      "text": "适用于靴子。 $(br2)沙丘步行者在沙地上行走时增加移动速度。 通过在铁砧中将靴子与凉鞋组合获得。"
+    },
+    {
+      "type": "text",
+      "title": "雪地漂泊者",
+      "anchor": "snow_drifter",
+      "text": "适用于靴子。 $(br2)雪地漂流者在雪地上行走时增加移动速度。 通过在铁砧中将靴子与雪鞋组合获得。"
+    },
+    {
+      "type": "text",
+      "title": "速滑运动员",
+      "anchor": "speed_skater",
+      "text": "适用于靴子。 $(br2)速滑运动员 在冰上行走时增加移动速度。 通过在铁砧中将靴子与雪鞋组合获得。"
+    },
+    {
+      "type": "text",
+      "title": "气体保护",
+      "anchor": "gas_protection",
+      "text": "适用于头盔。 $(br2)气体保护可防止气体块中的有害影响和窒息。 通过在铁砧中将头盔与 $(l:tools/gas_mask)防毒面具$() 组合获得。"
+    },
+    {
+      "type": "text",
+      "title": "摇摆",
+      "anchor": "swing",
+      "text": "Swing 增加了单击工具的攻击速度。 $(br2)适用于： $(li)$(l:tools/hammers)锤子$() $(li)$(l:tools/crowbars)撬棍$() $(br)级别：I-V"
+    },
+    {
+      "type": "text",
+      "title": "迷惑",
+      "anchor": "daze",
+      "text": "眩晕对被击中的暴徒造成迟缓。 $(br2)适用于：$(li)$(l:tools/hammers)锤子$()$(br)级别：I-III"
+    },
+    {
+      "type": "text",
+      "title": "穿刺",
+      "anchor": "puncture",
+      "text": "穿刺允许可投掷的工具刺穿盔甲。 $(br2)适用于：$(li)$(l:tools/spears)长矛$()$(br)级别：I-III"
+    },
+    {
+      "type": "text",
+      "title": "分裂",
+      "anchor": "atomize",
+      "text": "分裂增加了从破碎敌人的机会。 $(br2)适用于：$(li)$(l:tools/hammers)锤子$()$(br)级别：I"
+    },
+    {
+      "type": "text",
+      "title": "电击",
+      "anchor": "lightning_aspect",
+      "text": "电击 在结构生物身上召唤闪电。 $(br2)适用于：$(li)$(l:tools/hammers)锤子$()$(br)级别：I"
+    },
+    {
+      "type": "text",
+      "title": "范围采掘",
+      "anchor": "excavate",
+      "text": "挖掘允许锤子一次粉碎多个块。 1 级是十字形，2 级是 3x3，两者都以开采的区块为中心。 $(br2)适用于：$(li)$(l:tools/hammers)锤子$()$(br)级别：I-II"
+    },
+    {
+      "type": "text",
+      "title": "冲击",
+      "anchor": "impact",
+      "text": "冲击增加投掷长矛的击退。 $(br2)适用于：$(li)$(l:tools/spears)长矛$()$(br)级别：I-V"
+    },
+    {
+      "type": "text",
+      "title": "地震",
+      "anchor": "quake",
+      "text": "Quake 提高了基于 y 水平的工具的挖掘速度。 你在世界上越低，它开采的速度就越快。 每个级别都会增加可以达到的最大速度。 $(br2)适用于： $(li)$(l:tools/pickaxes)镐$() $(li)$(l:tools/shovels)铲子$() $(br)Levels: I-III"
+    },
+    {
+      "type": "text",
+      "title": "觅食",
+      "anchor": "foraging",
+      "text": "觅食允许任何级别的锄头能够 $(l:mechanics/foraging)饲料$()。 附魔还扩大了可获得的掉落物，包括硝石、其他食品和生物掉落物。 有些掉落物取决于生物群系。 $(br2)适用于：$(li)$(l:tools/hoes)锄头()$(br)级别：I"
+    },
+    {
+      "type": "text",
+      "title": "窥探",
+      "anchor": "prying",
+      "text": "撬动有几率使目标掉落其当前持有的物品。 机会取决于所持有物品的稀有程度。 $(br2)适用于：$(li)$(l:tools/crowbars)撬棍$()$(br)级别：I-III"
+    },
+    {
+      "type": "text",
+      "title": "古董",
+      "anchor": "antiquated",
+      "text": "古董 增加主手或副手时的运气属性。 $(br2)适用于：$(li)锡？工具$()$(br)级别：I-III"
+    },
+    {
+      "type": "text",
+      "title": "净化",
+      "anchor": "cleanse",
+      "text": "净化会根据目标拥有的效果数量造成额外伤害。 $(br2)适用于：$(li)不锈钢剑()$(br)级别：I-II"
+    },
+    {
+      "type": "text",
+      "title": "端点",
+      "anchor": "endpoint",
+      "text": "端点将您传送到长矛的最终目的地。 随着附魔等级的提高，造成的伤害降低。 $(br2)只能从 Endite 元素中获得。 $(br2)适用于：$(li)$(l:tools/spears)长矛$()$(br)级别：I-III"
+    },
+    {
+      "type": "text",
+      "title": "可怕的再生",
+      "anchor": "ghastly_regeneration",
+      "text": "可怕的再生使工具在拥有者处于再生效果下时进行自我修复。 $(br2)只能从 Ghastium 元素中获得。 $(br2)适用于：$(li)任何工具$()$(br)级别：I"
+    },
+    {
+      "type": "text",
+      "title": "凋零诅咒",
+      "anchor": "withering_curse",
+      "text": "凋零诅咒会造成任何伤害（魔法和凋零除外），从而对拥有者造成凋零效果。 $(br2)只能从 Wither 元素中获得。 $(br2)适用于：$(li)任何工具$()$(br)级别：I"
+    }
+  ]
+}

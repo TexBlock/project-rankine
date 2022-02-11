@@ -1,0 +1,25 @@
+{
+  "name": "矿棉",
+  "icon": "rankine:mineral_wool",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "text": "矿棉是矿渣和细绳的纤维基质。 除了防火外，它与羊毛相同。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:mineral_wool",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:mineral_wool_from_color"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:white_mineral_wool",
+      "text": "可以通过用羊毛块制作矿渣来制作有色矿棉。 矿棉也可以在 世界中进行 $(l:mechanics/world_color) 着色。"
+    }
+  ]
+}

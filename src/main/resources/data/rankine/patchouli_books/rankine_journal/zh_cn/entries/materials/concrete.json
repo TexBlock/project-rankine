@@ -1,0 +1,27 @@
+{
+  "name": "混凝土",
+  "icon": "rankine:roman_concrete",
+  "category": "materials",
+  "pages": [
+    {
+      "type": "text",
+      "anchor": "concrete",
+      "text": "混凝土是一种精制的砾石材料。 由于其改进的特性，它可以提高其表面的移动速度。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:gravel_concrete",
+      "text": ""
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:roman_concrete",
+      "text": "整套装饰块的存在和功能相同。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rankine:pozzolanic_mortar",
+      "text": "用于制作混凝土。"
+    }
+  ]
+}
